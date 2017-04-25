@@ -9,5 +9,6 @@ One server (min 2 GB RAM, 2 CPUs) running Ubuntu 16.04.2 x64. You can set this u
 
     git clone https://github.com/rohasnagpal/cakeshop.git
     cd cakeshop
-    bash -e instal-0.9.1.sh
+    bash -e cakeshop.sh
 
+To access Multichain web-demo, visit `http://<IP ADDRESS>:8080/cakeshop`
