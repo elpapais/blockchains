@@ -1,4 +1,5 @@
 # Setting up blockchain & DLT platforms
+This is in continuation of our project on exploring the various blockchain and distributed ledger platforms. For an overview of the popular platforms, [see this.](https://www.linkedin.com/pulse/16-blockchain-platforms-brief-introduction-rohas-nagpal)
 
 A. Cakeshop
 -------------------
