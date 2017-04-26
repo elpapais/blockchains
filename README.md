@@ -33,7 +33,7 @@ You will require 1 server (min 2 GB RAM, 2 CPUs) running Ubuntu 16.04.2 x64. Onc
     git clone https://github.com/Primechain/blockchains.git; cd blockchains; bash -e multichain.sh
 
 
-After installing, go to [Getting started with Multichain](http://www.multichain.com/getting-started/) or [MultiChain for Developers](http://www.multichain.com/developers/)
+You will be shown the IP address and port to be used by other nodes for connecting to the blockchain named `chain1`. To continue, go to [Getting started with Multichain](http://www.multichain.com/getting-started/) or [MultiChain for Developers](http://www.multichain.com/developers/)
 
 
 E. Quorum
